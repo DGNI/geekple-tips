@@ -1,1 +1,28 @@
-{"initialize": true, "published_at": 1389430191}
+{
+    "topics": [
+        "java",
+        "nodejs"
+    ],
+    "team": {
+        "permalink": "geekple"
+    },
+    "snippets": [
+        {
+            "id": 34,
+            "filename": "34.html"
+        },
+        {
+            "id": 38,
+            "filename": "1111.html"
+        },
+        {
+            "id": 44,
+            "filename": "44.html"
+        },
+        {
+            "id": 45,
+            "filename": "45.html"
+        }
+    ],
+    "published": 1389397791.0
+}
